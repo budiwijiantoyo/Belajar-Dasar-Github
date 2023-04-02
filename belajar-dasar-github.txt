@@ -1,3 +1,6 @@
 Belajar Dasar Guthub
 - Belajar Commit
 - Belajar Rollback
+- Belajar Branching
+- Belajar Merging
+
