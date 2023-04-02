@@ -1,4 +1,4 @@
-Belajar Dasar Guthub
+Belajar Dasar Github
 - Belajar Rollback
 - Belajar Branching
 - Belajar Merging
